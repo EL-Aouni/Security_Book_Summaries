@@ -1,7 +1,7 @@
 # The Hacker Playbook 3 — Practical Guide to Penetration Testing (Red Team Edition)
 **By Peter Kim (Secure Planet LLC, 2018) — 264 pages**
 
-> 📖 Personal study summary/resume written after reading the full book. Shared for learning purposes — go buy the original if this is useful to you.
+>  Personal study summary/resume written after reading the full book. Shared for learning purposes.
 
 ---
 
