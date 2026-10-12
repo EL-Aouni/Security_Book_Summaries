@@ -1,7 +1,7 @@
 # The Hacker's Codex — Modern Web Application Attacks Demystified
 **By Brandon — 173 pages**
 
-> 📖 Personal study summary/resume written after reading the full book. Shared for learning purposes — go buy the original if this is useful to you.
+>  Personal study summary/resume written after reading the full book. Shared for learning purposes.
 
 ---
 
