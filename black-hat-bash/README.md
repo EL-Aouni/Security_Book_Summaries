@@ -1,7 +1,7 @@
 # Black Hat Bash — Creative Scripting for Hackers and Pentesters
 **By Dolev Farhi & Nick Aleks (No Starch Press, 2025) — 347 pages**
 
-> 📖 This is a personal study summary/resume, written after reading the full book. Shared for learning purposes — go buy the original book if this is useful to you.
+>  This is a personal study summary/resume, written after reading the full book. Shared for learning purposes.
 
 ---
 
