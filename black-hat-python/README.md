@@ -1,7 +1,7 @@
 # Black Hat Python — Python Programming for Hackers and Pentesters
 **By Justin Seitz (No Starch Press, 2014) — 193 pages**
 
-> 📖 Personal study summary/resume written after reading the full book. Shared for learning purposes — go buy the original if this is useful to you. Note: this is the classic 1st edition (2014); a 2nd edition updated for Python 3 exists and covers slightly different tooling.
+>  Personal study summary/resume written after reading the full book. Shared for learning purposes . Note: this is the classic 1st edition (2014); a 2nd edition updated for Python 3 exists and covers slightly different tooling.
 
 ---
 
