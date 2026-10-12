@@ -1,6 +1,6 @@
-# 📚 Security Book Summaries (EN / AR)
+#  Security Book Summaries (EN / AR)
 
-Bilingual (English + Arabic) chapter-by-chapter summaries of offensive security / malware analysis books, written after reading each book cover to cover. Meant as study notes and a quick refresher — With the originals books .
+Bilingual (English + Arabic) chapter-by-chapter summaries of offensive security / malware analysis books, written after reading each book cover to cover. Meant as study notes and a quick refresher.
 
 ## Index
 
